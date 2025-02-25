@@ -14,7 +14,7 @@ def print_tree(node, indent=0):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python read_treesitter.py <filename>")
+        print("Usage: python test.py <filename>")
         sys.exit(1)
 
     filename = sys.argv[1]
