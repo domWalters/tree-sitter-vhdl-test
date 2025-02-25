@@ -1,0 +1,3 @@
+/.aider*
+/tree-sitter-vhdl/
+/*.egg-info
