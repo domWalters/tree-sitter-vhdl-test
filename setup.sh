@@ -36,6 +36,4 @@ source "$script_dir/.venv/bin/activate"
 python3 -m ensurepip
 
 # Install the project
-export PROJECT_ROOT="$script_dir"
-echo "$PROJECT_ROOT"
 pip3 install -e .
